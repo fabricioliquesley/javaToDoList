@@ -1,0 +1,10 @@
+br\com\fabricioliquesley\todolist\task\TaskModel.class
+br\com\fabricioliquesley\todolist\utils\utils.class
+br\com\fabricioliquesley\todolist\task\ITaskRepository.class
+br\com\fabricioliquesley\todolist\filter\FilterTaskAuth.class
+br\com\fabricioliquesley\todolist\user\UserController.class
+br\com\fabricioliquesley\todolist\TodolistApplication.class
+br\com\fabricioliquesley\todolist\task\TaskController.class
+br\com\fabricioliquesley\todolist\errors\ExceptionHandlerController.class
+br\com\fabricioliquesley\todolist\user\IUserRepository.class
+br\com\fabricioliquesley\todolist\user\UserModel.class
